@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+@chromium-browser — kiosk — incognito http://192.168.0.32/intdigitalsignage.html
+@xset s noblank
+@xset s off
+@xset -dpms
+@unclutter -idle 0.1 -root
+=======
+TEMP EDIT FOR ATOM VERSION CONTROL TRACKING
+>>>>>>> 311402ad49448d2afe14caf9bdd7c95132a983e5
